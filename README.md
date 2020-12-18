@@ -1,5 +1,4 @@
-# ERP - Point Of Sale - Sistema de Gestión
-
+# ERP - Point Of Sale
 
 This was my first project. It was built mostly with PHP and JavaScript. It was built as a gift for a friend.
 
